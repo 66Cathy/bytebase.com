@@ -98,6 +98,11 @@ const teammateList = [
     role: "team.roles.intern",
     emeritus: true,
   },
+    {
+    name: "Cathy",
+    role: "team.roles.intern",
+    emeritus: true,
+  },
 ];
 
 export const getTeammateByName = (name: string) => {
